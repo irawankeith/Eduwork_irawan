@@ -1,0 +1,59 @@
+body
+{
+    
+    background-image: url(hack.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin : 250px 0 0 0;
+    background-color: black;
+}
+.divi
+{
+    display: flex;
+    justify-content:center;
+
+}
+.content
+{
+    
+    border : solid;
+    color: blue;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+   background-color: blanchedalmond;
+}
+h1{
+    padding-top: 10px;
+    color: black;
+    width: 300px;
+    height: 50px;
+   background-color: yellowgreen;
+}
+#myTextBox
+{
+    width: 230px;
+    text-align: center;
+}
+#outputAkhir
+{
+    width: 300px;
+    height :20px;
+    background-color: white;
+    text-align: center;
+}
+.choize
+{
+    text-align: center;
+    width : 100px;
+}
+#conBtn
+{
+    width : 100px;
+}#clear
+{
+    width : 100px;
+}
+
+    
